@@ -1,7 +1,9 @@
 # lustre
-Le lustre a huit sources comme chez JBD.
+Le lustre comme chez JBD.
 
-MDF 6mm
+MDF 6mm, visserie 6mm, pot yaourt en verre, lampes leds, douilles e27, fil electrique plat 2.5mm x 4.2mm.
 
-<img src="/img/IMG_20190224_184334.jpg" alt="drawing" width="800"/>
 <img src="/img/IMG_20190224_184649.jpg" alt="drawing" width="800"/>
+<img src="/img/IMG_20190224_184334.jpg" alt="drawing" width="800"/>
+
+Grand merci a lui pour cette demande et pour bien d'autres choses également.
