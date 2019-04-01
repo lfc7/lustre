@@ -2,6 +2,7 @@
 Le lustre comme chez JBD.
 
 MDF 6mm, visserie 6mm, pot yaourt en verre, lampes leds, douilles e27, fil electrique plat 2.5mm x 4mm.
+
 Prototype realisé à la CNC; fraise droite de 1.5mm.
 Assemblé sans colle.
 
